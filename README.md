@@ -1,4 +1,6 @@
 # Learn Jenkins App
+#first install the npm with "install npm"
+#control c -cancel in terminal
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
